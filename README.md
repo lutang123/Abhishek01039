@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Flutter, Deno, Django and Flask frameworks.
+- 🌱 I’m currently learning Machine Learning, Docker and Kubernetes.
+
 <!--
 **Abhishek01039/Abhishek01039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
