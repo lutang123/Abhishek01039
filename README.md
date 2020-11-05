@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I,m Flutter, dartpad.dev, Flutter Plugin and Flutter plugin plus contributor.
+- I,m Flutter, dartpad.dev, Flutter Plugin and Flutter plugin plus, getX contributor.
 - I,m admin of Flutter India community.
 - 🔭 I’m currently working on Flutter, Deno, Django and Flask frameworks.
 - 🌱 I’m currently learning Machine Learning, Docker and Kubernetes.
