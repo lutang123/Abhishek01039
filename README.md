@@ -3,6 +3,7 @@
 <a href="https://github.com/Solido/awesome-flutter">
    <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
 </a>
+
 - I'm Flutter, dartpad.dev, Flutter Plugin, Flutter plugin plus, getX, Graphql_flutter, FlutterResources, notifier_plugin, GetStorage, awesome-flutter and flutterPlayground contributor.
 - I'm admin of Flutter India community.
 - 🔭 I’m currently working on Flutter, Deno, Django and Flask frameworks.
