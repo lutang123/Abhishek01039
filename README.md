@@ -7,21 +7,9 @@
 - I'm Flutter, dartpad.dev, Flutter Plugin, Flutter plugin plus, provider, getX, Graphql_flutter, FlutterResources, notifier_plugin, GetStorage, awesome-flutter and flutterPlayground contributor.
 - I'm admin of Flutter India community.
 - 🔭 I’m currently working on Flutter, Deno, Django and Flask frameworks.
-- 🌱 I’m currently learning Docker and Kubernetes.
+- 🌱 I’m currently learning Docker and Kubernetes.<hr style="border:2px solid blue"> </hr>
 
-[linkedin]: https://www.linkedin.com/in/abhishek-ghaskata-881b5416b
+ Contact to me:
 
-<!--
-**Abhishek01039/Abhishek01039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTltv4EdpLnEGqyhnxTkt7LbafMXXFcDKOdyw&usqp=CAU" width="30px" height="30px">](https://www.linkedin.com/in/abhishek-ghaskata-881b5416b)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Flutter, Deno, Django and Flask technologies.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
