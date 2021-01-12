@@ -4,7 +4,7 @@
    <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
 </a>
 
-- I am Flutter, Flutter Documentation, Dart Documentation, dartpad.dev, Flutter Plugin, Flutter Plugin Plus, Flutter BLoC, Firebase, Provider, RiverPod, GetX, Django, Graphql_flutter, File_picker, FlutterResources, notifier_plugin, GetStorage, Awesome-Flutter, Hive, Hive Documentation, Isar (NoSQL Database), Appium Flutter Driver, Enough Mail App and FlutterPlayground Contributor.
+- I am Flutter, Flutter Documentation, Dart Documentation, dartpad.dev, Flutter Plugin, Flutter Plugin Plus, Firebase, Amplify Flutter, Flutter BLoC, Provider, RiverPod, GetX, Django, Graphql_flutter, File_picker, FlutterResources, notifier_plugin, GetStorage, Awesome-Flutter, Hive, Hive Documentation, Isar (NoSQL Database), Appium Flutter Driver, Enough Mail App and FlutterPlayground Contributor.
 - I'm admin of Deno and Flutter India community.
 - 🔭 I’m currently working on Flutter, Deno, Django and Flask frameworks.
 - 🌱 I’m currently learning swift.<hr style="border:2px solid blue"> </hr>
