@@ -17,11 +17,12 @@
 <img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt=“Django” width="56px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
 <img align="left" alt=“Firebase” width="56px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" />
+<br/>
 <img align="left" alt=“Firebase” width="26px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" />
 <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
 <img align="left" alt=“Firebase” width="70px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
 <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" />
-
+<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
 
 <br/>
 
