@@ -6,8 +6,8 @@
 
 - I am an open source contributer, I contribute to Flutter & Python and various plugins & libraries and much more.
 - 🔭 I’m currently working on Flutter, Deno, Django and Flask frameworks.
-- 🌱 I’m currently learning swift.<hr style="border:2px solid blue">
-- 🗿 I am one of the early adopters of Flutter, it has been more than 2 years </hr>
+- 🌱 I’m currently learning swift.
+- 🗿 I am one of the early adopters of Flutter, it has been more than 2 years. <hr style="border:2px solid blue"/>
 
  Contact to me:
 
